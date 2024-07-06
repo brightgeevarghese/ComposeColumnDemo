@@ -1,2 +1,1 @@
-<img width="739" alt="image" src="https://github.com/brightgeevarghese/ComposeColumnDemo/assets/27910029/b7daeb92-c0e9-43ed-bc61-8555064d7d17">
-
+<img width="608" alt="image" src="https://github.com/brightgeevarghese/ComposeColumnDemo/assets/27910029/68f56a98-a106-4033-9b8c-d44b8e8fb779">
