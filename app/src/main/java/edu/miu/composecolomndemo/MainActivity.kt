@@ -64,7 +64,7 @@ fun MIUHome(modifier: Modifier = Modifier) {
 
 @Composable
 @Preview(showBackground = true)
-fun DefaultPreview() {
+fun MIUHomePreview() {
     ComposeColomnDemoTheme {
         MIUHome()
     }
